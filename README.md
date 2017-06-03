@@ -43,4 +43,7 @@ Important question to solve before starting second part of progect:
 3. How much accelerometers nedeed to define skoleosis/kyphosys/fall/ et ect.?
 4. Efficiency of cardiosensor.
 
-
+Appendix B.
+Further R&D actions
+intelligent-insole interaction with Y-shirt.
+http://en.kinepod.com/products-soles-active-mouth-guard-posturology/active-orthopaedic-insole-intelligent-foot/
